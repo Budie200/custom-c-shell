@@ -1,0 +1,5 @@
+ashell
+
+*.o
+
+.DS_Store
