@@ -4,6 +4,7 @@
 
 #include "parser.h"
 #include "executor.h"
+#include "prompt.h"
 
 int main(void){
 while(1)
