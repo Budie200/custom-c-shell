@@ -1,7 +1,6 @@
 ashell
 
 *.o
-
-*dSYM
-
+*.dSYM
+*.swp
 .DS_Store
