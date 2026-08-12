@@ -2,7 +2,7 @@
 
 ## Features:
 - [ ] `built_cd()`
-- [ ] `built_pwd()`
+- [X] `built_pwd()`
 - [ ] `built_history()` (use linked list maybe?)
 - [ ] `built_help()`
 - [ ] connect functions to builtIn

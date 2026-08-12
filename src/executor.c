@@ -7,6 +7,11 @@ if((strcmp(args[0], "exit")) == 0){
 	return 1;
 }
 
+if((strcmp(args[0], "pwd")) == 0){
+	built_pwd();
+	return 1;
+}
+
 return 0;
 }
 
