@@ -6,7 +6,7 @@
 - [ ] `built_history()` (use linked list maybe?)
 - [ ] `built_help()`
 - [ ] connect functions to builtIn
-- [ ] Print user and current working directory when prompting
+- [X] Print user and current working directory when prompting
 
 
 ## Memory & Edge Cases:
