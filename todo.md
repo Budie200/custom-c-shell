@@ -16,6 +16,7 @@
 
 ## Later:
 - [ ] check for consistent variable and function naming conventions
+- [ ] add comments to help explain code
 - [ ] Read up on different possible signals
 - [ ] piping (`|`)
 - [ ] background processes (`&`)
