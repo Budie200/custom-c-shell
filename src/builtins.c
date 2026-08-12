@@ -5,11 +5,15 @@ void built_exit(void)
 exit(0);
 }
 
-/*
 void built_cd(const char* args[]){
-    return;
+    if(args[1] == NULL){
+        printf("cd: expected argument\n");
+    } else {
+        if(chdir(args[1]) != 0){
+            perror("cd failed");
+        }
+    }
 }
-*/
 
 void built_pwd(void){
     char* cwd = getcwd(NULL, 0); //get working directory, NULL means allocate memory for the string, 0 means no limit on the size of the string

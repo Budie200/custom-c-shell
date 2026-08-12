@@ -1,7 +1,7 @@
 # ToDo
 
 ## Features:
-- [ ] `built_cd()`
+- [X] `built_cd()`
 - [X] `built_pwd()`
 - [ ] `built_history()` (use linked list maybe?)
 - [ ] `built_help()`
